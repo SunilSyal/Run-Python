@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "dev": "nodemon --watch Python --ext py,json --exec python3 ./Python/init.py"
+  }
+}
