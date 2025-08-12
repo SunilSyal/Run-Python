@@ -9,7 +9,8 @@ Visit https://nodejs.org/en, download and install NodeJS on your machine.
 
 # Clone Repo
 
-Open terminal and run command `git clone https://github.com/SunilSyal/Run-Python.git`
+Open terminal and run command
+`git clone https://github.com/SunilSyal/Run-Python.git`
 
 # Install Repo
 
