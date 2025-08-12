@@ -21,7 +21,11 @@ Navigate to "Run-Python" folder and run command
 
 ```
 npm install
+```
+
 or
+
+```
 npm i
 ```
 
