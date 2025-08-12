@@ -10,7 +10,10 @@ Visit https://nodejs.org/en, download and install NodeJS on your machine.
 # Clone Repo
 
 Open terminal and run command
-`git clone https://github.com/SunilSyal/Run-Python.git`
+
+```
+git clone https://github.com/SunilSyal/Run-Python.git
+```
 
 # Install Repo
 
@@ -24,4 +27,10 @@ npm i
 
 # Start writing and testing Python code
 
-Run command `npm run dev` and start writing your code in "Python/init.py" file. On save, the code will be executed automatically and the output will be displayed in the terminal window.
+Run command
+
+```
+npm run dev
+```
+
+and start writing your code in "Python/init.py" file. On save, the code will be executed automatically and the output will be displayed in the terminal window.
